@@ -45,9 +45,3 @@ This task helped me learn:
 
 ---
 
-## 📤 Submission
-
-This repository was created for internship task submission. All files were prepared by me, and no paid tools were used.
-
-🔗 Submission Link: [Google Form Link Provided by Mentor]
-
