@@ -1,0 +1,19 @@
+sample-phishing-email.txt
+
+Subject: Unauthorized Access Detected on Your PayPal Account  
+From: PayPal Security Team <security@paypai.com>  
+
+Body:
+Dear Customer,
+
+We have detected suspicious activity on your PayPal account. To ensure your account's security, please verify your identity by clicking the link below:
+
+[Verify Now](http://www.paypai.com/verify)
+
+Failure to verify within 24 hours will result in temporary suspension of your account.
+
+Thank you for your prompt attention to this matter.  
+Sincerely,  
+PayPal Security Team
+
+---
